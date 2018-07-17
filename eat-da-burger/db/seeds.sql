@@ -4,29 +4,30 @@ devoured
 ) VALUES
 (
 "Barth Burger",
-0
+false
 ),
 (
 "McDowell Burger",
-0
+false
 ),
 (
 "The Big Kahuna Burger",
-0
+true
 );
 (
 "Mooby Burger",
-0
+true
 );
 (
 "The Max Burger",
-0
+false
 );
 (
 "McBurgerTown Burger",
 0
+false
 );
 (
 "Paunch Burger",
-0
+false
 );
