@@ -8,3 +8,8 @@
 * Each burger in the waiting area also has a `Devour it!` button. When the user clicks it, the burger will move to the right side of the page.
 
 * This app will store every burger in a database, whether devoured or not.
+
+
+![Image of Eat-Da-Burger](https://raw.githubusercontent.com/ravenusric/burger/master/public/assets/images/eatdaburger.png
+
+)
