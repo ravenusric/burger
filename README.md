@@ -11,5 +11,4 @@
 
 
 ![Image of Eat-Da-Burger](https://raw.githubusercontent.com/ravenusric/burger/master/public/assets/images/eatdaburger.png
-
 )
